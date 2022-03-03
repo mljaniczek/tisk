@@ -1,4 +1,4 @@
-baseurl: https://mljaniczek.github.io/tisk
+baseurl: /
 languageCode: en-us
 title: Things I Should Know
 theme: hugo-lithium
