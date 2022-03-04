@@ -1,5 +1,5 @@
 ---
-bio: My research interests include machine learning techniques to use on large, sparse, -omic data. 
+bio: My research interests include machine learning techniques to use on large, sparse, biological data. 
 education:
   courses:
   - course: PhD in Biostatistics
@@ -41,7 +41,7 @@ superuser: true
 title: Margaret Janiczek
 ---
 
-I am a PhD student at UMass Amherst, where I am focused on using machine learning methods on biological classification problems. I previously  received my MS in Biostatistics, worked at Memorial Sloan Kettering Cancer Center for several years. 
+I am a PhD student at UMass Amherst, where I am focused on using machine learning methods on biological classification problems. I am a member of [Raji Balasubramanian's](https://raji-lab.github.io/) lab. I previously  received my MS in Biostatistics from Columbia University, and worked at Memorial Sloan Kettering Cancer Center for several years. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
